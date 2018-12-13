@@ -12,3 +12,4 @@
 
 - [Awesome public datasets repo](https://github.com/awesomedata/awesome-public-datasets)
 - [Cool datasets](https://www.cooldatasets.com/)
+- Statistics about Github projects?
