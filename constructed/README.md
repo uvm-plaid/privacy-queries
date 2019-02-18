@@ -23,6 +23,8 @@ create table timestamped_data as
   from tripdata;
 ```
 
+You can also download a pre-made SQLite3 database file [here](https://drive.google.com/file/d/1qw7yIUkCeOjPXv8kgmNe3esdhyDvn12T/view?usp=sharing).
+
 ## Queries
 
 The file `NYC Taxi Data.sql` contains a set of simple manually-written
